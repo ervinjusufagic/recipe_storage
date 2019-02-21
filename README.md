@@ -1,10 +1,12 @@
-# inlamning
-* kör npm install i både recept-näring och node-rest-api
-* starta node-rest-api först med nodemon server.js (måste använda nodemon)
-* starta sedan recept-naring med npm start
+## Recipe Storage
 
-* -bilderna buggar när man filtrerar och söker(funkar i början)
-* -bilderna laddas upp lokalt
-* -du får ursäkta min kod,
-* -sorry för versionshantering, glömde helt bort
-* logga in på sidan med test@test.com och test som lösenord så kan du ta bort recept :)
+A web-app made with React for storing food recipes and figuring out the nutritional values of the recipe.
+
+### `Run the app`
+
+1. clone project
+2. run `npm install` in both client and api directory
+3. run `nodemon server` in api directory
+4. run `npm start` in client directory
+
+
